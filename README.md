@@ -1,7 +1,7 @@
 # Interview-demo
 This is my first repository
 <br>
-Developer- Aaveg goyal
+Developer- Aveg Goyal 
 <br>
-suncity school
+Development place-suncity school
 
